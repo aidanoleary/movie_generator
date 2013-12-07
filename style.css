@@ -15,13 +15,17 @@ body {
 	border: medium dotted red;
 }
 
+#select_category {
+	font-size: 1.25em;
+}
+
 #get_film_button {
 	text-decoration: none;
 	display: inline-block;
-	height: 6%;
-	width: 11%;
+	/* height: 50%; */
+	/* width: 11%; */
 	/* margin: 0 auto; */
-	/* padding:1% 3%; */
+	padding:1% 3%;
 	background: red;
 	border: medium solid grey;
 	border-radius: 10px;
